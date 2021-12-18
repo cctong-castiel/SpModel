@@ -1,0 +1,6 @@
+**/__pycache__
+*src/log/.log*
+*.ipynb*
+docker-compose.yml
+README.md
+app/test/*

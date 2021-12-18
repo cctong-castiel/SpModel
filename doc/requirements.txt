@@ -1,0 +1,6 @@
+boto3==1.17.99
+sanic==20.9.0
+wget==3.2
+regex==2020.9.27
+python-dotenv==0.19.2
+sentencepiece==0.1.96

@@ -1,0 +1,8 @@
+*pycache*
+*src/log/.log*
+*.ipynb*
+*src/sp_model_files/**
+src/config/*
+test/*
+.env
+docker-compose.yml
